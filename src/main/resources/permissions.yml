@@ -1,0 +1,8 @@
+- ADMINISTRATOR:
+  - mineman.admin
+- MEMBER:
+  - mineman.member
+- PLAYER:
+  - mineman.player
+- GUEST:
+  - mineman.guest

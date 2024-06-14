@@ -1,0 +1,13 @@
+name: $name
+version: $version
+main: me.mineman.servercore.ServerCore
+api-version: "$apiVersion"
+authors: [GhastCraftHD]
+description: $description
+commands:
+  reloadperms:
+    permission: mineman.admin
+    description: Reload all permissions from the permission file
+  vanish:
+    permission: mineman.admin
+    description: Enter or leave vanish mode
